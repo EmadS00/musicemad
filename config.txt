@@ -1,0 +1,5 @@
+token=NjE2MDcxOTg5MDU2MTEwNjEz.XWXR1A.yjz0TEDvBvbdvLkjF0O6cb0JKk4
+owner=255429901891403778
+prefix=So
+stayinchannel=true
+songinstatus=true
